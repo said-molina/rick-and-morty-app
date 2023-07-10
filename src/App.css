@@ -1,0 +1,42 @@
+.resident-container{
+  display: flex;
+  gap: 2em;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.location-container {
+  display: flex;
+  gap: 2em;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 2.5em;
+  
+}
+
+.locationid-container {
+  display: flex;
+  gap: 2em;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 2.5em;
+  padding-top: 2.5em;
+}
+
+.banner-container {
+   align-items: center;
+    flex-grow: 1;
+    flex-direction: column;
+    flex-shrink: 1;
+    display: flex;
+    max-width: 1367px;
+    position: relative;
+    flex-basis: 0px;
+    justify-content: center;
+}
+
+.banner-img {
+  height : 100%;
+  width: 100%;
+  
+}
